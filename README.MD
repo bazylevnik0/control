@@ -7,7 +7,7 @@ third install: "pip3 install aubio" or "pip install aubio" <br>
 <hr>
 then:<br>
 add your .wav(44100) key to folder and name it "key.wav"<br>
-generate "key_temp" from key.wav(or other .wav): "python3 read.py"<br>
+generate "key_temp" from "key.wav": "python3 read.py"<br>
 compile "show": "cc show.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11"<br> 
 run "show":"./a.out"<br>
 <hr><hr>
