@@ -2,7 +2,7 @@ Tool for reading sound and visualising it in dance offigures.<br>
 .wav -> openGL<br>
 <hr><hr>
 first install: https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux <br>
-second install: "<b>sudo apt install python</b>3" or "<b>sudo pacman -Sy python-pip</b>"<br>
+second install: "<b>sudo apt install python3</b>" or "<b>sudo pacman -Sy python-pip</b>"<br>
 third install: "<b>pip3 install aubio</b>" or "<b>pip install aubio</b>" <br>
 <hr>
 then:<br>
