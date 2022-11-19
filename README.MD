@@ -11,5 +11,5 @@ generate "key_temp" from "key.wav": "<b>python3 read.py</b>"<br>
 compile "show": "<b>cc show.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11</b>"<br> 
 run "show":"<b>./a.out</b>"<br>
 <hr><hr>
-*if you in windows, heh... maybe you choose bad side? think about it :D <br>
+*if you in windows<br>
 you can check docs and recompile/run for your system but yourself all libs and code is cross-platform
