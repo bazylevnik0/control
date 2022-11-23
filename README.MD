@@ -6,7 +6,7 @@ second install: "<b>sudo apt install python3</b>" or "<b>sudo pacman -Sy python-
 third install: "<b>pip3 install aubio</b>" or "<b>pip install aubio</b>" <br>
 <hr>
 then:<br>
-add your .wav(44100) key to folder and name it "key.wav"<br>
+add your .wav(44100) key to folder and name it "<b>key.wav</b>"<br>
 generate "key_temp" from "key.wav": "<b>python3 read.py</b>"<br>
 compile "show": "<b>cc show.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11</b>"<br> 
 run "show":"<b>./a.out</b>"<br>
