@@ -1,4 +1,4 @@
-Tool for reading sound and visualising it in dance offigures.<br>
+Tool for reading sound and visualising it in dance of figures.<br>
 .wav -> openGL<br>
 <hr><hr>
 first install: https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux <br>
